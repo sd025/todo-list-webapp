@@ -1,0 +1,18 @@
+.login {
+    background-color: black;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.login-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.login-container > img {
+    object-fit: contain;
+    height: 450px;
+    padding-bottom: 75px;
+    background: transparent;
+}

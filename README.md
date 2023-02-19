@@ -1,3 +1,8 @@
+TO-DO-APP
+This application was built using create-react-app as a base, and the technologies used were React (Custom Hooks, Context) and Firebase.
+click the Pizza icon on the top right, it enables dark mode!
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,4 +1,5 @@
 TO-DO-APP
+
 This application was built using create-react-app as a base, and the technologies used were React (Custom Hooks, Context) and Firebase.
 click the Pizza icon on the top right, it enables dark mode!
 
